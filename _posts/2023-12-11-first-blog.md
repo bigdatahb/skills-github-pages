@@ -1,6 +1,5 @@
 ---
 title: "first blog"
 date: 2023-12-11
+author: "huangbo"
 ---
-
-This is my first blog using Github Pages.
